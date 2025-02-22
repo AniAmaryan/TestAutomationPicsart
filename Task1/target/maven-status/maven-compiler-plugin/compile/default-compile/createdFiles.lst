@@ -1,0 +1,9 @@
+framework\constants\Data.class
+framework\helpers\WaitHelper.class
+framework\pages\ImagePage.class
+framework\helpers\CommonHelper.class
+framework\helpers\Iframe.class
+framework\pages\SearchResultsPage.class
+framework\pages\CanvasEditPage.class
+framework\pages\BasePage.class
+framework\pages\popup\GetStartedWithPicsartPopup.class
